@@ -13,6 +13,7 @@
 
     
     This module has been developed by Bernard Delhez, intern @ AbAKUS it-solutions.""",
-    'data': ['view/product_template_view.xml',
-             ],
+    'data': [
+        'view/product_template_view.xml',
+        ],
 }
